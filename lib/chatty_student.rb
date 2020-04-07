@@ -12,5 +12,4 @@ class ChattyStudent < Student
       count+=1
     end
   end
-  
 end
